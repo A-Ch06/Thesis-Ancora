@@ -1,0 +1,6 @@
+MAE (No Segmentation, Train)
+============================
+total_calories: 74.15
+total_fat: 6.08
+total_carb: 10.01
+total_protein: 8.39

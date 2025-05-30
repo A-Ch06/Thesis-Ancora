@@ -1,0 +1,6 @@
+MAPE (Train Set)
+================
+total_calories: 48.80
+total_fat: 3408.74
+total_carb: 247.05
+total_protein: 679.26

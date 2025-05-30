@@ -1,0 +1,6 @@
+MAE (No Segmentation, Test)
+===========================
+total_calories: 84.13
+total_fat: 5.98
+total_carb: 10.48
+total_protein: 9.38
