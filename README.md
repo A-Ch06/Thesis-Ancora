@@ -1,4 +1,4 @@
-# 🍽️ Automated Nutrient Estimation from Food Images Using Machine Learning and Image Segmentation
+# Automated Nutrient Estimation from Food Images Using Machine Learning and Image Segmentation
 
 This repository contains the code developed for a bachelor thesis project at Vrije Universiteit Amsterdam.
 
