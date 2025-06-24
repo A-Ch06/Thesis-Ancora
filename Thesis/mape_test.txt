@@ -1,6 +1,0 @@
-MAPE (Test Set)
-===============
-total_calories: 313407.69
-total_fat: 4792928.00
-total_carb: 8283533.50
-total_protein: 136120.11
