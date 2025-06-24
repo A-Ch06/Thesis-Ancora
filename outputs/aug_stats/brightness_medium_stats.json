@@ -1,0 +1,14 @@
+{
+    "calories_MAE": 84.49,
+    "calories_MAE_%": 33.07,
+    "calories_SMAPE": 42.43,
+    "fat_MAE": 8.49,
+    "fat_MAE_%": 66.14,
+    "fat_SMAPE": 93.37,
+    "carb_MAE": 8.58,
+    "carb_MAE_%": 43.59,
+    "carb_SMAPE": 59.0,
+    "protein_MAE": 9.4,
+    "protein_MAE_%": 53.75,
+    "protein_SMAPE": 79.26
+}
