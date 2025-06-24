@@ -1,0 +1,6 @@
+MAE - Test Set
+==============
+total_calories: 70.70
+total_fat: 8.10
+total_carb: 7.72
+total_protein: 7.92

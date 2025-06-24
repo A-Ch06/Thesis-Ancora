@@ -1,0 +1,6 @@
+MAE - Train Set
+===============
+total_calories: 71.65
+total_fat: 6.56
+total_carb: 7.43
+total_protein: 7.42

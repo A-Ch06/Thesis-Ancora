@@ -1,0 +1,6 @@
+SMAPE - Test Set
+================
+total_calories: 36.60
+total_fat: 89.90
+total_carb: 55.76
+total_protein: 74.78

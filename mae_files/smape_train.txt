@@ -1,0 +1,6 @@
+SMAPE - Train Set
+=================
+total_calories: 35.36
+total_fat: 85.98
+total_carb: 44.96
+total_protein: 55.29
