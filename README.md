@@ -12,4 +12,5 @@ All images used in this project (~60,000 food photos), including original, segme
 Access is available to anyone with the link.
 
 **Note:** These files are shared for academic, non-commercial use only, in the context of this bachelor thesis.
+
 **Disclaimer:** This repository builds upon the Nutrition5K dataset
